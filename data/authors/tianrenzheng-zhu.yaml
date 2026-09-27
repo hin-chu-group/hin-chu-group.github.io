@@ -1,0 +1,15 @@
+schema: hugoblox/author/v1
+slug: tianrenzheng-zhu
+name:
+  display: Tianrenzheng Zhu · 祝田仁政
+  given: Tianrenzheng
+  family: Zhu
+role: PhD Student
+bio: 'Doctoral researcher in the Hin Chu Group at HKUMed.'
+affiliations:
+  - name: Department of Microbiology, HKUMed
+    url: https://hkumicro.hku.hk/
+user_groups:
+  - PhD Students
+weight: 1
+links: []

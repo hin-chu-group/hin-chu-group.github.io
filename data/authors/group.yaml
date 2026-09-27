@@ -1,0 +1,22 @@
+schema: hugoblox/author/v1
+slug: group
+name:
+  display: Hin Chu Group
+  given: Hin Chu
+  family: Group
+role: 'Emerging virus research · HKUMed'
+email: hinchu@hku.hk
+bio: |
+  At the University of Hong Kong, we investigate how emerging viruses enter cells, spread, and cause disease — and how those mechanisms can guide antiviral strategies.
+affiliations:
+  - name: Department of Microbiology, HKUMed
+    url: https://hkumicro.hku.hk/
+links:
+  - icon: at-symbol
+    url: mailto:hinchu@hku.hk
+    label: Contact the group
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-2855-9837
+    label: PI's ORCID
+interests: []
+awards: []

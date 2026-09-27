@@ -1,0 +1,16 @@
+main:
+  - name: Research
+    url: /#projects
+    weight: 10
+  - name: People
+    url: /people/
+    weight: 20
+  - name: Publications
+    url: /publications/
+    weight: 30
+  - name: News
+    url: /blog/
+    weight: 40
+  - name: Join us
+    url: /#contact
+    weight: 50

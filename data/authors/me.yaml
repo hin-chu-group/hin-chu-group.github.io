@@ -1,0 +1,42 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+user_groups:
+  - Principal Investigator
+weight: 1
+name:
+  display: Hin Chu
+  given: Hin
+  family: Chu
+postnominals:
+  - PhD
+status:
+  icon: '🔬'
+role: 'Principal Investigator · Associate Professor'
+email: hinchu@hku.hk
+bio: |
+  Hin Chu (朱軒) leads research on the pathogenic mechanisms and host and viral determinants of emerging viruses, with a focus on highly pathogenic coronaviruses.
+affiliations:
+  - name: Department of Microbiology, HKUMed
+    url: https://hkumicro.hku.hk/university-staff/dr-chu-hin/
+links:
+  - icon: at-symbol
+    url: mailto:hinchu@hku.hk
+    label: Email
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-2855-9837
+    label: ORCID
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=C_8ayvcAAAAJ&hl=en
+    label: Google Scholar
+interests:
+  - Emerging viral pathogens
+  - Coronavirus biology
+  - Virus–host interactions
+  - Viral pathogenesis
+education:
+  - degree: PhD in Microbiology and Molecular Genetics
+    institution: Emory University
+  - degree: BS in Biochemistry
+    institution: University of Wisconsin–Madison
+awards: []
